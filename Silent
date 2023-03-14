@@ -1,12 +1,12 @@
 -- SilentWare Property! --
--- Skid if you're a nigger!
+
 
 
 getgenv().Neodymium = { -- Dont Re execute This Script Unless You Rejoin
     Silent = {
         ["Silent Aim"] = true,
         ["Silent Aim Hold Key"] = Enum.UserInputType.MouseButton2,
-        ["Show FOV"] = false,
+        ["Show FOV"] = true,
         ["FOV Size"] = 150,
         ["Tracer To Target"] = true,
         ["Prediction"] = true,
@@ -14,7 +14,7 @@ getgenv().Neodymium = { -- Dont Re execute This Script Unless You Rejoin
         ["BulletDropPrediction"] = 0.05, -- Keep This 0.03 Unless you know what your doing
         ["LoadBypasses"] = true, -- You Can Change This If You Want It Too Be Detected :Shrug:
         ["LoadBypasses2"] = false, -- Not Reccomended Since It Drops Alot Of FPS When Aiming
-        ["Visible Check"] = false,
+        ["Visible Check"] = true,
     },
     ESP = {
         ["Enable ESP"] = true,
